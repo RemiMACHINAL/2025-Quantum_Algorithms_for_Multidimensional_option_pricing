@@ -3,7 +3,7 @@
 Quantum Monte Carlo pricing of **best-of call options on 3 underlying assets** (extensible to d dimensions), using the **Modified Iterative Quantum Amplitude Estimation (MIQAE)** algorithm and Qiskit.
 
 > Author: Rémi Machinal — Supervisor: Alain Bélanger — July 2025
-> The full report (in French) is available in [`[report_file].pdf`](./[report_file].pdf).
+> The full report (in French) is available in [`[report_file].pdf`](./rapport.pdf).
 
 ---
 
